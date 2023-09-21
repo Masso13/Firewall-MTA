@@ -1,0 +1,11 @@
+<meta>
+    <script src="commands.lua" type="server" cache="false"></script>
+    
+    <script src="modules/access/access.lua" type="server" cache="false"></script>
+    <script src="modules/netstat/netstatC.lua" type="client" cache="false"></script>
+    <script src="modules/netstat/netstatS.lua" type="server" cache="false"></script>
+
+    <file src="data/log.log" download="false"/>
+    <file src="data/whitelist.db" download="false"/>
+    <download_priority_group>20</download_priority_group>
+</meta>
